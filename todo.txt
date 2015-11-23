@@ -1,3 +1,3 @@
 1. Learn git
-2. Write a great program
+2. Write oustanding program
 3. Success!
