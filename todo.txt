@@ -1,3 +1,3 @@
 1. Learn git
-2. Write fabulous program
+2. Write fab program
 3. Success!
